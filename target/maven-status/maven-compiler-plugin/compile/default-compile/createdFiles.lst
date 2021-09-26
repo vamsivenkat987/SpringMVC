@@ -1,0 +1,13 @@
+org\example\service\DemoServiceImpl.class
+org\example\model\TodoItem.class
+org\example\controller\TodoItemController.class
+org\example\service\TodoItemServiceImpl.class
+org\example\config\WebAppInitializer.class
+org\example\config\WebConfig.class
+org\example\model\TodoData.class
+org\example\utils\AttributeNames.class
+org\example\service\DemoService.class
+org\example\controller\DemoController.class
+org\example\service\TodoItemService.class
+org\example\utils\ViewNames.class
+org\example\utils\Mappings.class
